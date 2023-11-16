@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        System.out.println("hello world");
         // Вызов метода с различными входными данными
         System.out.println(ageAndTemperature(25, 15));
         System.out.println(ageAndTemperature(18, 20));
